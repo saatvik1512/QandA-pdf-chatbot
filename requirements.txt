@@ -1,0 +1,10 @@
+langchain 
+langchain-community
+streamlit
+transformers
+faiss-cpu
+pdfplumber
+sentence-transformers
+groq
+langchain-google-genai
+langchain_huggingface
